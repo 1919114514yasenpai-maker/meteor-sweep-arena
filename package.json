@@ -1,0 +1,16 @@
+{
+  "name": "meteor-sweep-arena-server",
+  "version": "1.0.0",
+  "description": "流星掃射 -ARENA- リアルタイム対戦サーバー (Express + Socket.io)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
